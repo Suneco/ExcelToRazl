@@ -42,3 +42,8 @@ D:\Source\Repos\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.csprojResolveAssem
 D:\Source\Repos\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.Main.resources
 D:\Source\Repos\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.Properties.Resources.resources
 D:\Source\Repos\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.csproj.GenerateResource.Cache
+D:\Workspaces\ExcelToRazl\ExcelToRazl\bin\Debug\ExcelToRazl.exe.config
+D:\Workspaces\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.csproj.App.config
+D:\Workspaces\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.csproj.ResolveComReference.cache
+D:\Workspaces\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.exe
+D:\Workspaces\ExcelToRazl\ExcelToRazl\obj\Debug\ExcelToRazl.pdb
