@@ -450,7 +450,7 @@ namespace ExcelToRazl
                                             errors.Add(new Error { RowNumber = rowCount, Field = "ItemPath", Message = "Could not retrieve ItemId by ItemPath from Sitecore. Either the setup for the Sitecore source instance are wrong or the item doesn't exist." });
                                             c.Type = Models.CommandType.Unknown;
                                         }
-                                        else if(!result.statusCode.Equals("200"))
+                                        else if(result.statusCode != 200)
                                         {
                                             errors.Add(new Error { RowNumber = rowCount, Field = "ItemPath", Message = "Could not retrieve ItemId by ItemPath from Sitecore." +Environment.NewLine+ "Status code from server: " + result.statusCode + Environment.NewLine + (result.error != null ? "Message from server: " + result.error.message : string.Empty)});
                                             c.Type = Models.CommandType.Unknown;
